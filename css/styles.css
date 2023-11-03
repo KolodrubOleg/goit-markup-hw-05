@@ -772,11 +772,10 @@ input::placeholder {
 .checkbox-input:checked+.label-checkbox span {
     background-color: #404bbf;
     border: none;
+    fill: #F4F4FD;
+    
 }
 
-.checkbox-input:checked+.label-checkbox span::before {
-    fill: #F4F4FD;
-}
 
 
        .button-form {
